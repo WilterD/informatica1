@@ -3,6 +3,7 @@
 //minutos  tiene  un  costo  de  35  Bs.  Por  cada  minuto  adicional  se  cobra  una
 //tarifa  de  15  Bs.  Se  debe  leer  el  tiempo  de  llamadas  en  el  formato  hh:mm.
 //Salida: tiempo de llamada y costo
+//Interpretando que la tarifa de costo son 35 bs los primeros 3 minutos
 
 program LlamadaTelefonica;
 uses crt;
