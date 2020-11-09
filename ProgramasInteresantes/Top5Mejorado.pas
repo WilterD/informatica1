@@ -13,8 +13,8 @@ uses
           estado : string[80];
     end;
    const
-       elarchivo = 'C:\Users\david_000\Desktop\PCS-ENMANUEL\Emmanuel\emmanuel salcedo\Desktop\Trabajo\UCAB\Algoritmo y programacion\Proyecto\datos.txt';
-       lista = 'C:\Users\david_000\Desktop\PCS-ENMANUEL\Emmanuel\emmanuel salcedo\Desktop\Trabajo\UCAB\Algoritmo y programacion\Proyecto\datos.txt';
+       elarchivo = 'C:\Users\david_000\Desktop\PCS-ENMANUEL\Emmanuel\emmanuel salcedo\Desktop\Trabajo\UCAB\Algoritmo y programacion\Proyecto\datos.txt'; //Aqui debe ir la direccion donde se guardara el archivo
+       lista = 'C:\Users\david_000\Desktop\PCS-ENMANUEL\Emmanuel\emmanuel salcedo\Desktop\Trabajo\UCAB\Algoritmo y programacion\Proyecto\lista.txt'; //igualmente aqui perro aqui tambien  pon la direccion
    var
      f : file of fichero;
      dato : fichero;
