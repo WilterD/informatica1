@@ -1,0 +1,2 @@
+Sólo ejecutar TURBO.EXE
+y luego presionar Ctrl+F9
