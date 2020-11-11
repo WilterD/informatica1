@@ -1,3 +1,5 @@
+//15. Dados dos números enteros realizar el algoritmo que calcule el cociente y el resto
+//(suponiendo que no existe los operadores para ello)
 program cocienteyresto;
 uses crt;
 var
