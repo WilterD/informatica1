@@ -1,3 +1,10 @@
+//13. Los trabajadores de una fabrica de autos tiene tres turnos: mañana, noche y
+//festivos. Se desea calcular el sueldo semanal a razón de 5 días de trabajo a la semana
+//según la siguiente tarifa:
+// 600 Ptas./hora turno de la mañana
+// 800 Ptas./hora turno de la tarde
+//1000 Ptas./hora día festivo.
+//Se debe leer el turno y el número de horas trabajadas.
 program Salario_Semanal;
 uses crt;
 var
@@ -11,7 +18,7 @@ begin
     dias:=(dias + 1);
     writeln('Ingrese las horas trabajadas');
     readln(horas);
-    writeln('Pulse 1 para turno ma�ana, 2 para la tarde, 3 festivo');
+    writeln('Pulse 1 para turno mañana, 2 para la tarde, 3 festivo');
     readln(turno);
     if (turno = '1') then
       begin
