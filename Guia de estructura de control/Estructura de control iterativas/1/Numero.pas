@@ -6,6 +6,7 @@
 //y el promedio de los números pares.
 //c)  Dados  como  datos  N  números  enteros,  determine  cuántos  de  ellos  son  pares  y
 //cuántos impares.
+//Realizado por Emmanuel Salcedo
 
 program Numero;
 uses crt,math;
