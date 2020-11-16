@@ -52,7 +52,7 @@ begin
        begin
           ContImpar:=ContImpar+1
        end;
-         while (divisor<numero) do
+         while (divisor<=numero) do
          begin
           if (numero mod divisor = 0) then
           begin
