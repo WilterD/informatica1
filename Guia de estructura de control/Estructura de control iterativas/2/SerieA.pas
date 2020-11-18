@@ -10,7 +10,7 @@ begin
   num:=2;
   i:=1;
   while num<=20 do //Este sera el numero limite que veremos imprimod por pantalla en este caso la serie de numeros sera hasta 20 si colocamos 1800
-   begin                         // Veriamos por pantalla todo el calculo en pantalla hasta que llegue a 18000
+   begin                         // Veriamos por pantalla todo el calculo en pantalla hasta que llegue a 1800
    writeln(num);
      if (i mod 2 = 0) then  //Como funciona este recorrido pues si vemos la serie es una suma que empieza en 2+3=5 luego 5+2=7 y 7+3=10
      begin                  // entonces la solucion es que inicializamos una variable con 1 y esta variable al dividirla entre 2 es 0 entonces le sumara al numero
