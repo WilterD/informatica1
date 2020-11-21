@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\lazarus\fpc\3.0.4\bin\i386-win32\fpc.exe" Date="1325662673"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq &quot;-FiC:\Users\osiris\Documents\1UCAB\2 SEMESTRE\Program 1\guia_pascal\ejercicios\guia_todos_temas\47\47_Amigos\lib\i386-win32&quot; &quot;-FuC:\Users\osiris\Documents\1UCAB\2 SEMESTRE\Program 1\guia_pascal\ejercicios\guia_todos_temas\47\47_Amigos\&quot; &quot;-FUC:\Users\osiris\Documents\1UCAB\2 SEMESTRE\Program 1\guia_pascal\ejercicios\guia_todos_temas\47\47_Amigos\lib\i386-win32\&quot; &quot;-FEC:\Users\osiris\Documents\1UCAB\2 SEMESTRE\Program 1\guia_pascal\ejercicios\guia_todos_temas\47\47_Amigos\&quot; &quot;-oC:\Users\osiris\Documents\1UCAB\2 SEMESTRE\Program 1\guia_pascal\ejercicios\guia_todos_temas\47\47_Amigos\amigos.exe&quot; amigos.pas"/>
+</CONFIG>
