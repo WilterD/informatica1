@@ -1,6 +1,6 @@
-//3.- Elaborar un algoritmo que determine, el valor y la posición, de TODOS los puntos de silla de una matriz NxM leída por el teclado,
-//se debe mostrar el valor del punto silla y la posición que ocupa.
-//Se denomina elemento o punto de silla, a aquel valor que simultáneamente es maximo de su fila y mínimo de su columna. (valor 5  ptos)
+//3.- Elaborar un programa en PASCAL que determine, el valor y la posición, de TODOS los puntos de silla inversos de una matriz NxM leída por el teclado,
+//se debe mostrar el valor de los puntos silla y la posiciones que ocupas. Se denomina elemento o punto de silla inverso,
+//a aquel valor que simultáneamente es mínimo de su fila y máximo de su columna.
 program PuntoySilla;
 uses crt;
 var
