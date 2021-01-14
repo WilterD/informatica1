@@ -230,5 +230,4 @@ begin
   until eleccion=2;
 
 
-
   end.
